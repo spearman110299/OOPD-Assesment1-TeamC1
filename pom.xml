@@ -47,7 +47,6 @@
         <module>dao</module>
         <module>service</module>
         <module>web</module>
-        <module>client</module>
     </modules>
     
     <dependencyManagement>
